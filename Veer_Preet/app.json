@@ -1,0 +1,38 @@
+{
+  "id": "b66b4a60-692a-4077-aa30-838c369cc3fd",
+  "name": "VeerPreet SalesLine Change",
+  "publisher": "SandhamAdams Inc.",
+  "version": "1.0.0.0",
+  "brief": "Sales Line Change 3 New Fields",
+  "description": "Sales Line Change 3 New Fields: Tire Size, Speed rating,Season designation",
+  "privacyStatement": "https://sandhamadams.com/contact-toronto-microsoft-dynamics-nav-navision-consultants/",
+  "EULA": "https://sandhamadams.com/contact-toronto-microsoft-dynamics-nav-navision-consultants/",
+  "help": "https://sandhamadams.com/contact-toronto-microsoft-dynamics-nav-navision-consultants/",
+  "url": "",
+  "logo": "./pictures/SandhaAdamsLogo.jpg",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://sandhamadams.com/contact-toronto-microsoft-dynamics-nav-navision-consultants/",
+  "showMyCode": true,
+  "runtime": "4.0"
+}
